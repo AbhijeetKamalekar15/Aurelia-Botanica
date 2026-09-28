@@ -1,0 +1,6 @@
+{
+  "name": "Aurelia Botanica - Luxury COD E-Commerce",
+  "description": "An exquisite Cash on Delivery boutique e-commerce destination for artisanal botanical skincare, haute fragrances, and luxury body care, featuring seamless customer ordering and an enterprise administration suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
